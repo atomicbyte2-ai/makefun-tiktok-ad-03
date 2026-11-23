@@ -1,0 +1,14 @@
+{
+  "name": "makefun-tiktok-ad-03",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun bring-the-humans-03 entry: TikTok ad of an AI solver playing Snake",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
